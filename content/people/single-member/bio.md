@@ -7,7 +7,12 @@ icons:
   text: Linkedin
   url: '#'
 - icon: fa fa-envelope
-lives_in: '[Wuhan, Hubei](https://www.google.com/maps/place/Munich,+Germany/)'
+  text: Email
+  url: 'mailto:jsx@mail.hzau.edu.cn'
+- icon: fab fa-weixin
+  text: Weixin
+  url: 'Wechat.jpg'
+lives_in: '[Wuhan, Hubei](https://dwz.cn/alWq5Aln)'
 position: PRINCIPAL INVESTIGATOR
 scope:
 - Group of Cotton Genetic Improvement (GCGI)

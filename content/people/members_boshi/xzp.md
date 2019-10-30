@@ -8,17 +8,20 @@ icons:
   url: 'https://twitter.com/hopetogy'
 - icon: fab fa-facebook
   text: Facebook
-  url: '#'
+  url: 'https://www.facebook.com/xzpiphone'
 - icon: fa fa-envelope
   text: Linkedin
   url: 'mailto:zhongpingxu@aliyun.com'
 - icon: fab fa-weixin
   text: Weixin
-  url: 'XZP_Hall-Of-Fame'
+  url: './members_boshi/xzp_Wechat.jpg'
 - icon: fab fa-weibo
   text: Weibo
   url: 'http://weibo.com/tiramisutesTes'
-lives_in: '[Wuhan](https://www.google.com/maps/place/Iceland/)'
+- icon: fab fa-github
+  text: Github
+  url: 'https://github.com/tiramisutes'
+lives_in: '[Wuhan](https://dwz.cn/alWq5Aln)'
 position: Bioinformatics
 scope:
 - http://tiramisutes.github.io/

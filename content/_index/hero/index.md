@@ -6,7 +6,7 @@ weight = 50
 background = "light" # can influence the text color
 particles = false
 
-title = "JinLab"
+title = ""
 subtitle = "Showcase your next project"
 
 [header]
