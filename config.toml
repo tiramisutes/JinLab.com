@@ -1,0 +1,138 @@
+# Site settings
+baseurl = "/"
+languageCode = "en-us"
+languageLang = "en"
+title = "Jin Lab"
+theme = "syna"
+enableGitInfo = true
+version = "0.15.2"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+ignorefiles = [ "content/dev/.*" ]
+
+# Google Analytics tracking
+googleAnalytics = ""
+
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
+
+[frontmatter]
+date = ["date", "lastmod"]
+lastmod = ["lastmod", ":git", "date"]
+
+[params]
+  name = "Jin Lab"
+  description = "Open Source Theme for your next project"
+  debug = true
+  unsafeEvents = true # Default is false. Enables ?event=type format of url events.
+
+  [params.style]
+    #background = "secondary"
+
+  # Theme customizations
+  # Assets relative to 'static/'
+  [params.custom]
+    favicon = "favicon.ico"
+    favicon_ico_sizes = "16x16 32x32"
+    favicon_png = "favicon.png"
+    favicon_svg = "favicon.svg"
+
+  # Piwik tracking
+  [params.analytics.piwik]
+    #url = "https://use.example.net"
+    #id = ""
+    #domain = "*" # Track subdomains via "*.example.com"
+    # Optional hash for integrity check
+    #hash = "sha512-RfeD0pacGTqy9m7U6PgehQfS4cc7SIt+e+P+H5e848kEvB/RW84CUGO3O4O3LNbxjevym6KPUZ8muPsMrI8WIw=="
+
+  # Optional, global disable switch for fontawesome related files
+  # For custom fontawesome js files use the custom.js method
+  [params.fontawesome]
+    disabled = false
+    pro = false
+
+  [params.colors]
+    primary = "#00838F"
+    secondary = "#868e96"
+    success = "#008f54"
+    info = "#00c9dc"
+    warning = "#fdf314"
+    danger = "#dc1200"
+    light = "#f8f9fa"
+    dark = "#343a40"
+
+# main/prepend/postpend menus are displayed in nav fragment.
+# footer/footer_social menus are displayed in footer fragment.
+# copyright_footer menus are displayed in copyright fragment
+# Keep an eye out for updates. These will be moved out to make navbar more
+# configurable.
+[[menu.main]]
+  url = "/"
+  name = "Home"
+  weight = 10
+
+[[menu.main]]
+  url = "/people"
+  name = "People"
+  weight = 20
+
+[[menu.main]]
+  url = "/data"
+  name = "Data"
+  weight = 30
+
+[[menu.main]]
+  url = "/research"
+  name = "Research"
+  weight = 40
+
+[[menu.main]]
+  url = "/publications"
+  name = "Publications"
+  weight = 50
+
+[[menu.main]]
+  url = "/news"
+  name = "News"
+  weight = 60
+
+[[menu.main]]
+  url = "/lab_photos"
+  name = "Lab photos"
+  weight = 70
+
+[[menu.main]]
+  url = "/links"
+  name = "Links"
+  weight = 80
+  
+[[menu.main]]
+  url = "/about"
+  name = "About"
+  weight = 90
+
+[[menu.main]]
+  url = "/contact"
+  name = "Contact"
+  weight = 100
+  
+[[menu.footer]]
+  url = "https://syna.okkur.org/demo"
+  name = "鄂ICP备XXXXX号"
+  weight = 10
+
+[[menu.footer]]
+  url = "http://tiramisutes.github.io/about/"
+  image = "gongan.png"
+  name = "鄂公网安备 420111XXXXXXX号"
+  weight = 20
+
+#[[menu.footer_social]]
+  #weight = 30
+  #name = "植物生物技术"
+  #url = "https://mp.weixin.qq.com/s/AuY9IrYXhgsKqWguhS20iw"
+  #pre = "fab fa-weixin fa-1x"
+
+[[menu.copyright_footer]]
+  url = "/about"
+  name = "About Us"
+  weight = 10

@@ -1,0 +1,12 @@
+---
+title: High-efficient and precise base editing of C•G to T•A in the allotetraploid cotton (Gossypium hirsutum) genome using a modified CRISPR/Cas9 system
+weight: 11
+---
+
+The base-editing technique using CRISPR/nCas9 (Cas9 nickase) or dCas9 (deactivated Cas9) fused with cytidine deaminase is a powerful tool to create point mutations. In this study, a novel G. hirsutum-Base Editor 3 (GhBE3) base-editing system has been developed to create single-base mutations in the allotetraploid genome of cotton (Gossypium hirsutum). A cytidine deaminase sequence (APOBEC) fused with nCas9 and uracil glycosylase inhibitor (UGI) was inserted into our CRISPR/Cas9 plasmid (pRGEB32-GhU6.7). Three target sites were chosen for two target genes, GhCLA and GhPEBP, to test the efficiency and accuracy of GhBE3. The editing efficiency ranged from 26.67 to 57.78% at the three target sites. Targeted deep sequencing revealed that the C→T substitution efficiency within an ‘editing window’, approximately six-nucleotide windows of −17 to −12 bp from the PAM sequence, was up to 18.63% of the total sequences. The 27 most likely off-target sites predicted by CRISPR-P and Cas-OFFinder tools were analysed by targeted deep sequencing, and it was found that rare C→T substitutions (average < 0.1%) were detected in the editing windows of these sites. Furthermore, whole-genome sequencing analyses on two GhCLA-edited and one wild-type plants with about 100× depth showed that no bona fide off-target mutations were detectable from 1500 predicted potential off-target sites across the genome. In addition, the edited bases were inherited to T1 progeny. These results demonstrate that GhBE3 has high specificity and accuracy for the generation of targeted point mutations in allotetraploid cotton.
+
+---
+Qin, L., Li, J., Wang, Q., Xu, Z., Sun, L., Alariqi, M., Manghwar, H., Wang, G., Li, B., Ding, X., Rui, H., Huang, H., Lu, T., Lindsey, K., Daniell, H., Zhang, X. and Jin, S. High‐efficient and precise base editing of C•G to T•A in the allotetraploid cotton (*Gossypium hirsutum*) genome using a modified CRISPR/Cas9 system. ***Plant Biotechnology Journal***, 2019
+
+---
+原文链接：https://onlinelibrary.wiley.com/doi/abs/10.1111/pbi.13168
