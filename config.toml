@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "/"
+baseurl = "https://jinlab.netlify.com/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Jin Lab"

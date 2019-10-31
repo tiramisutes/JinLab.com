@@ -2,7 +2,7 @@
 fragment = "content"
 weight = 100
 
-title = "Fragment showcase"
+title = "Post showcase"
 +++
 
-List of all currently available default fragments in Syna.
+List of all currently available papers publish in this website.
