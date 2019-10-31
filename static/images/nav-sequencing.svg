@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120px"
+   height="120px"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg34"
+   sodipodi:docname="nav-sequencing.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata38">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview36"
+     showgrid="false"
+     inkscape:zoom="1.9666667"
+     inkscape:cx="60"
+     inkscape:cy="60"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg34" />
+  <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Sequencer 2</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="Page-1"
+     transform="matrix(0.69022089,0,0,0.69022089,20.054134,18.968276)"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+    <g
+       id="Sequencer-2">
+      <path
+         d="m 66.912941,16.815309 v 0.286134 c 0,-0.518123 -0.421379,-0.938144 -0.941176,-0.938144 H 55.943529 c -0.519797,0 -0.941176,0.420021 -0.941176,0.938144 V 51.92067 h -2.536471 v -8.884227 h -2.32 V 20.760206 H 9.3317647 V 48.435464 H 47.355294 v 3.466443 H 8.3811765 c -2.5458824,0 -3.6705883,2.059227 -3.6705883,4.596907 v 40.95 c 0,2.538802 2.0647574,4.596906 4.6117647,4.596906 v 0 2.81444 h 5.2705881 v -2.81444 h 89.995289 v 2.81444 h 5.26589 v -2.81444 h 5.03529 V 16.815309 Z M 46.677647,44.987783 H 12.795294 V 24.226649 h 33.882353 v 20.765825 z"
+         id="Shape"
+         inkscape:connector-curvature="0"
+         style="fill:#dbedf4;fill-rule:nonzero" />
+      <g
+         id="Details"
+         transform="translate(4,16)"
+         style="stroke:#143057;stroke-width:0.5">
+        <rect
+           id="Rectangle-path"
+           transform="rotate(90,25.743529,18.604871)"
+           x="11.854117"
+           y="-1.741134"
+           width="27.778824"
+           height="40.692009" />
+        <rect
+           id="rect10"
+           x="2.6305883"
+           y="58.192215"
+           width="52.428234"
+           height="24.518402"
+           rx="2.757647" />
+        <path
+           d="M 51.011765,86.064485 H 5.3223529 c -1.223116,0 -2.3961364,-0.484316 -3.2610101,-1.346403 C 1.1964692,83.855994 0.71058823,82.686753 0.71058823,81.467577 v -40.95 c 0,-2.53768 1.12470587,-4.596907 2.25882357,-4.596907 H 49.604706"
+           id="path12"
+           inkscape:connector-curvature="0" />
+        <rect
+           id="rect14"
+           x="58.517647"
+           y="30.249588"
+           width="37.025883"
+           height="5.6663918"
+           rx="1.5717647" />
+        <rect
+           id="rect16"
+           x="5.3317647"
+           y="86.064484"
+           width="5.2611766"
+           height="2.79567" />
+        <rect
+           id="rect18"
+           x="100.58353"
+           y="86.064484"
+           width="5.2611766"
+           height="2.79567" />
+        <polyline
+           id="polyline20"
+           points="43.3552941 32.4542268 43.3552941 35.9206701 48.4752941 35.9206701 48.4752941 27.0317526 46.1552941 27.0317526" />
+        <polyline
+           id="polyline22"
+           points="62.9129412 30.2495876 62.9129412 0.815309278 110.884706 0.815309278 110.884706 86.0644845 62.9129412 86.0644845 62.9129412 35.9206701" />
+        <path
+           d="M 51.011765,58.192216 V 1.1014433 c 0,-0.51812281 0.421379,-0.93814433 0.941176,-0.93814433 h 10.037647 c 0.519798,0 0.941177,0.42002152 0.941177,0.93814433"
+           id="path24"
+           inkscape:connector-curvature="0" />
+        <polyline
+           id="polyline26"
+           points="62.9129412 86.0644845 51.0117647 86.0644845 51.0117647 82.7106186" />
+        <rect
+           id="Mask"
+           transform="rotate(90,25.745882,18.604871)"
+           x="15.329412"
+           y="1.7229639"
+           width="20.832941"
+           height="33.763813"
+           style="fill:#ffffff;fill-rule:nonzero" />
+      </g>
+      <path
+         d="m 65.981177,16.17268 c 0.519797,0 0.941176,0.420022 0.941176,0.938145 v -0.295516 h 47.967057 v 85.249181 h -5.03529 v 2.81443 h -5.26589 v -2.81443 H 14.592941 v 2.81443 H 9.3317647 v -2.81443 0 C 6.7847574,102.06449 4.72,100.00638 4.72,97.467577 v -40.95 c 0,-2.53768 1.1247059,-4.596907 3.6705882,-4.596907 H 47.369412 V 48.454227 H 9.3317647 V 20.778969 H 50.155294 v 22.257474 h 2.32 v 8.888918 h 2.536471 V 17.101443 c 0,-0.518123 0.421379,-0.938144 0.941176,-0.938144 h 10.037647 z m 0.0094,-0.712989 H 55.943529 c -0.900767,0.01031 -1.62406,0.743843 -1.618823,1.641752 V 51.217062 H 53.2 V 42.328144 H 50.88 V 20.051907 H 8.6258824 V 49.134381 H 46.649412 v 2.059227 H 8.3811765 c -2.7011765,0 -4.3764706,2.031083 -4.3764706,5.300516 v 40.95469 c 0.00271,2.660376 1.980127,4.908126 4.6258823,5.258296 v 2.84258 h 6.6682348 v -2.81443 h 88.583527 v 2.81443 h 6.67294 v -2.81443 h 5.04 V 16.111701 H 67.284706 C 66.974674,15.70639 66.492508,15.468686 65.981177,15.469072 v 0 z"
+         id="path30"
+         inkscape:connector-curvature="0"
+         style="fill:#143057;fill-rule:nonzero" />
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="36.610172"
+     y="117.45763"
+     id="text42"><tspan
+       sodipodi:role="line"
+       id="tspan40"
+       x="36.610172"
+       y="117.45763"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">CRISPR</tspan></text>
+</svg>

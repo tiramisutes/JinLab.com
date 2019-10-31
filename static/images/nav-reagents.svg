@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg288" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="nav-reagents.svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="120px" height="120px"
+	 viewBox="0 0 120 120" enable-background="new 0 0 120 120" xml:space="preserve">
+<sodipodi:namedview  inkscape:cy="60.000001" inkscape:cx="115.96" inkscape:zoom="1.9666667" showgrid="false" guidetolerance="10" gridtolerance="10" pagecolor="#ffffff" borderopacity="1" bordercolor="#666666" objecttolerance="10" id="namedview290" inkscape:current-layer="Page-1" inkscape:window-maximized="1" inkscape:window-y="-8" inkscape:window-x="1912" inkscape:window-width="1920" inkscape:window-height="1017" inkscape:pageshadow="2" inkscape:pageopacity="0">
+	</sodipodi:namedview>
+<title  id="title2">Tube 2</title>
+<desc  id="desc4">Created with Sketch.</desc>
+<g id="Page-1" transform="scale(0.85,0.85) translate(12,15)">
+	<g id="Tube-2" transform="matrix(0.64454004,0,0,0.64454004,20.863674,16.46419)">
+		<path id="Shape-Background" inkscape:connector-curvature="0" fill="#FFFFFF" d="M78.091,4H43.398C40.955,4,39,5.931,39,8.345
+			S41.199,13,43.398,13h2.443v47.482l8.307,49.483c0,3.38,2.687,6.036,6.107,6.036c3.422,0,6.109-2.656,6.109-6.036l8.306-49.724V13
+			h2.993C80.107,13,82,10.517,82,8.103S80.29,4,78.091,4z"/>
+		<g id="Liquid" transform="translate(46,32)">
+			<g id="Mask">
+				<path id="path-1_1_" fill="#DBEDF4" d="M28.511,28.645L29,0.243L0,0l0.488,28.645l8.285,49.765c0,0-0.243,5.34,5.605,5.583
+					c5.848,0.244,5.606-5.583,5.606-5.583L28.511,28.645z"/>
+			</g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="2" y="2" width="24" height="83">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="2" y="2" width="24" height="83" id="mask-2">
+				<g id="use10" filter="url(#Adobe_OpacityMaskFilter)">
+					<path id="path-1" fill="#FFFFFF" d="M28.511,28.645L29,0.243L0,0l0.488,28.645l8.285,49.765c0,0-0.243,5.34,5.605,5.583
+						c5.848,0.244,5.606-5.583,5.606-5.583L28.511,28.645z"/>
+				</g>
+			</mask>
+			<g id="Dots" mask="url(#mask-2)">
+				<g id="g279" transform="translate(2,2)">
+					<g id="rows">
+						<circle id="Oval" fill="#109FDA" cx="1" cy="1" r="1"/>
+						<circle id="circle15" fill="#109FDA" cx="7" cy="1" r="1"/>
+						<circle id="circle17" fill="#109FDA" cx="12" cy="1" r="1"/>
+						<circle id="circle19" fill="#109FDA" cx="18" cy="1" r="1"/>
+						<circle id="circle21" fill="#109FDA" cx="23" cy="1" r="1"/>
+						<circle id="circle23" fill="#109FDA" cx="4" cy="4" r="1"/>
+						<circle id="circle25" fill="#109FDA" cx="9" cy="4" r="1"/>
+						<circle id="circle27" fill="#109FDA" cx="15" cy="4" r="1"/>
+						<circle id="circle29" fill="#109FDA" cx="20" cy="4" r="1"/>
+					</g>
+					<g id="rows-copy" transform="translate(0,6)">
+						<circle id="circle32" fill="#109FDA" cx="1" cy="1" r="1"/>
+						<circle id="circle34" fill="#109FDA" cx="7" cy="1" r="1"/>
+						<circle id="circle36" fill="#109FDA" cx="12" cy="1" r="1"/>
+						<circle id="circle38" fill="#109FDA" cx="18" cy="1" r="1"/>
+						<circle id="circle40" fill="#109FDA" cx="23" cy="1" r="1"/>
+						<circle id="circle42" fill="#109FDA" cx="4" cy="4" r="1"/>
+						<circle id="circle44" fill="#109FDA" cx="9" cy="4" r="1"/>
+						<circle id="circle46" fill="#109FDA" cx="15" cy="4" r="1"/>
+						<circle id="circle48" fill="#109FDA" cx="20" cy="4" r="1"/>
+					</g>
+					<g id="rows-copy-2" transform="translate(0,12)">
+						<circle id="circle51" fill="#109FDA" cx="1" cy="0.999" r="1"/>
+						<circle id="circle53" fill="#109FDA" cx="7" cy="0.999" r="1"/>
+						<circle id="circle55" fill="#109FDA" cx="12" cy="0.999" r="1"/>
+						<circle id="circle57" fill="#109FDA" cx="18" cy="0.999" r="1"/>
+						<circle id="circle59" fill="#109FDA" cx="23" cy="0.999" r="1"/>
+						<circle id="circle61" fill="#109FDA" cx="4" cy="4" r="1"/>
+						<circle id="circle63" fill="#109FDA" cx="9" cy="4" r="1"/>
+						<circle id="circle65" fill="#109FDA" cx="15" cy="4" r="1"/>
+						<circle id="circle67" fill="#109FDA" cx="20" cy="4" r="1"/>
+					</g>
+					<g id="rows-copy-3" transform="translate(0,18)">
+						<circle id="circle70" fill="#109FDA" cx="1" cy="1" r="1"/>
+						<circle id="circle72" fill="#109FDA" cx="7" cy="1" r="1"/>
+						<circle id="circle74" fill="#109FDA" cx="12" cy="1" r="1"/>
+						<circle id="circle76" fill="#109FDA" cx="18" cy="1" r="1"/>
+						<circle id="circle78" fill="#109FDA" cx="23" cy="1" r="1"/>
+						<circle id="circle80" fill="#109FDA" cx="4" cy="4" r="1"/>
+						<circle id="circle82" fill="#109FDA" cx="9" cy="4" r="1"/>
+						<circle id="circle84" fill="#109FDA" cx="15" cy="4" r="1"/>
+						<circle id="circle86" fill="#109FDA" cx="20" cy="4" r="1"/>
+					</g>
+					<g id="rows-copy-4" transform="translate(0,24)">
+						<circle id="circle89" fill="#109FDA" cx="1" cy="1" r="1"/>
+						<circle id="circle91" fill="#109FDA" cx="7" cy="1" r="1"/>
+						<circle id="circle93" fill="#109FDA" cx="12" cy="1" r="1"/>
+						<circle id="circle95" fill="#109FDA" cx="18" cy="1" r="1"/>
+						<circle id="circle97" fill="#109FDA" cx="23" cy="1" r="1"/>
+						<circle id="circle99" fill="#109FDA" cx="4" cy="4" r="1"/>
+						<circle id="circle101" fill="#109FDA" cx="9" cy="4" r="1"/>
+						<circle id="circle103" fill="#109FDA" cx="15" cy="4" r="1"/>
+						<circle id="circle105" fill="#109FDA" cx="20" cy="4" r="1"/>
+					</g>
+					<g id="rows-copy-5" transform="translate(0,30)">
+						<circle id="circle108" fill="#109FDA" cx="1" cy="1" r="1"/>
+						<circle id="circle110" fill="#109FDA" cx="7" cy="1" r="1"/>
+						<circle id="circle112" fill="#109FDA" cx="12" cy="1" r="1"/>
+						<circle id="circle114" fill="#109FDA" cx="18" cy="1" r="1"/>
+						<circle id="circle116" fill="#109FDA" cx="23" cy="1" r="1"/>
+						<circle id="circle118" fill="#109FDA" cx="4" cy="4" r="1"/>
+						<circle id="circle120" fill="#109FDA" cx="9" cy="4" r="1"/>
+						<circle id="circle122" fill="#109FDA" cx="15" cy="4" r="1"/>
+						<circle id="circle124" fill="#109FDA" cx="20" cy="4" r="1"/>
+					</g>
+					<g id="rows-copy-6" transform="translate(0,36)">
+						<circle id="circle127" fill="#109FDA" cx="1" cy="1" r="1"/>
+						<circle id="circle129" fill="#109FDA" cx="7" cy="1" r="1"/>
+						<circle id="circle131" fill="#109FDA" cx="12" cy="1" r="1"/>
+						<circle id="circle133" fill="#109FDA" cx="18" cy="1" r="1"/>
+						<circle id="circle135" fill="#109FDA" cx="23" cy="1" r="1"/>
+						<circle id="circle137" fill="#109FDA" cx="4" cy="4" r="1"/>
+						<circle id="circle139" fill="#109FDA" cx="9" cy="4" r="1"/>
+						<circle id="circle141" fill="#109FDA" cx="15" cy="4" r="1"/>
+						<circle id="circle143" fill="#109FDA" cx="20" cy="4" r="1"/>
+					</g>
+					<g id="rows-copy-7" transform="translate(0,42)">
+						<circle id="circle146" fill="#109FDA" cx="1" cy="1" r="1"/>
+						<circle id="circle148" fill="#109FDA" cx="7" cy="1" r="1"/>
+						<circle id="circle150" fill="#109FDA" cx="12" cy="1" r="1"/>
+						<circle id="circle152" fill="#109FDA" cx="18" cy="1" r="1"/>
+						<circle id="circle154" fill="#109FDA" cx="23" cy="1" r="1"/>
+						<circle id="circle156" fill="#109FDA" cx="4" cy="4" r="1"/>
+						<circle id="circle158" fill="#109FDA" cx="9" cy="4" r="1"/>
+						<circle id="circle160" fill="#109FDA" cx="15" cy="4" r="1"/>
+						<circle id="circle162" fill="#109FDA" cx="20" cy="4" r="1"/>
+					</g>
+					<g id="rows-copy-8" transform="translate(0,48)">
+						<circle id="circle165" fill="#109FDA" cx="1" cy="1" r="1"/>
+						<circle id="circle167" fill="#109FDA" cx="7" cy="1" r="1"/>
+						<circle id="circle169" fill="#109FDA" cx="12" cy="1" r="1"/>
+						<circle id="circle171" fill="#109FDA" cx="18" cy="1" r="1"/>
+						<circle id="circle173" fill="#109FDA" cx="23" cy="1" r="1"/>
+						<circle id="circle175" fill="#109FDA" cx="4" cy="4" r="1"/>
+						<circle id="circle177" fill="#109FDA" cx="9" cy="4" r="1"/>
+						<circle id="circle179" fill="#109FDA" cx="15" cy="4" r="1"/>
+						<circle id="circle181" fill="#109FDA" cx="20" cy="4" r="1"/>
+					</g>
+					<g id="rows-copy-9" transform="translate(0,54)">
+						<circle id="circle184" fill="#109FDA" cx="1" cy="1" r="1"/>
+						<circle id="circle186" fill="#109FDA" cx="7" cy="1" r="1"/>
+						<circle id="circle188" fill="#109FDA" cx="12" cy="1" r="1"/>
+						<circle id="circle190" fill="#109FDA" cx="18" cy="1" r="1"/>
+						<circle id="circle192" fill="#109FDA" cx="23" cy="1" r="1"/>
+						<circle id="circle194" fill="#109FDA" cx="4" cy="4" r="1"/>
+						<circle id="circle196" fill="#109FDA" cx="9" cy="4" r="1"/>
+						<circle id="circle198" fill="#109FDA" cx="15" cy="4" r="1"/>
+						<circle id="circle200" fill="#109FDA" cx="20" cy="4" r="1"/>
+					</g>
+					<g id="rows-copy-10" transform="translate(0,60)">
+						<circle id="circle203" fill="#109FDA" cx="1" cy="1" r="1"/>
+						<circle id="circle205" fill="#109FDA" cx="7" cy="1" r="1"/>
+						<circle id="circle207" fill="#109FDA" cx="12" cy="1" r="1"/>
+						<circle id="circle209" fill="#109FDA" cx="18" cy="1" r="1"/>
+						<circle id="circle211" fill="#109FDA" cx="23" cy="1" r="1"/>
+						<circle id="circle213" fill="#109FDA" cx="4" cy="4" r="1"/>
+						<circle id="circle215" fill="#109FDA" cx="9" cy="4" r="1"/>
+						<circle id="circle217" fill="#109FDA" cx="15" cy="4" r="1"/>
+						<circle id="circle219" fill="#109FDA" cx="20" cy="4" r="1"/>
+					</g>
+					<g id="rows-copy-11" transform="translate(0,66)">
+						<circle id="circle222" fill="#109FDA" cx="1" cy="1" r="1"/>
+						<circle id="circle224" fill="#109FDA" cx="7" cy="1" r="1"/>
+						<circle id="circle226" fill="#109FDA" cx="12" cy="1" r="1"/>
+						<circle id="circle228" fill="#109FDA" cx="18" cy="1" r="1"/>
+						<circle id="circle230" fill="#109FDA" cx="23" cy="1" r="1"/>
+						<circle id="circle232" fill="#109FDA" cx="4" cy="4" r="1"/>
+						<circle id="circle234" fill="#109FDA" cx="9" cy="4" r="1"/>
+						<circle id="circle236" fill="#109FDA" cx="15" cy="4" r="1"/>
+						<circle id="circle238" fill="#109FDA" cx="20" cy="4" r="1"/>
+					</g>
+					<g id="rows-copy-12" transform="translate(0,72)">
+						<circle id="circle241" fill="#109FDA" cx="1" cy="1.001" r="1"/>
+						<circle id="circle243" fill="#109FDA" cx="7" cy="1.001" r="1"/>
+						<circle id="circle245" fill="#109FDA" cx="12" cy="1.001" r="1"/>
+						<circle id="circle247" fill="#109FDA" cx="18" cy="1.001" r="1"/>
+						<circle id="circle249" fill="#109FDA" cx="23" cy="1.001" r="1"/>
+						<circle id="circle251" fill="#109FDA" cx="4" cy="4" r="1"/>
+						<circle id="circle253" fill="#109FDA" cx="9" cy="4" r="1"/>
+						<circle id="circle255" fill="#109FDA" cx="15" cy="4" r="1"/>
+						<circle id="circle257" fill="#109FDA" cx="20" cy="4" r="1"/>
+					</g>
+					<g id="rows-copy-13" transform="translate(0,78)">
+						<circle id="circle260" fill="#109FDA" cx="1" cy="1.001" r="1"/>
+						<circle id="circle262" fill="#109FDA" cx="7" cy="1.001" r="1"/>
+						<circle id="circle264" fill="#109FDA" cx="12" cy="1.001" r="1"/>
+						<circle id="circle266" fill="#109FDA" cx="18" cy="1.001" r="1"/>
+						<circle id="circle268" fill="#109FDA" cx="23" cy="1.001" r="1"/>
+						<circle id="circle270" fill="#109FDA" cx="4" cy="3.999" r="1"/>
+						<circle id="circle272" fill="#109FDA" cx="9" cy="3.999" r="1"/>
+						<circle id="circle274" fill="#109FDA" cx="15" cy="3.999" r="1"/>
+						<circle id="circle276" fill="#109FDA" cx="20" cy="3.999" r="1"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<path id="Top-of-Liquid" inkscape:connector-curvature="0" fill="none" stroke="#163157" stroke-width="0.8448" d="M46,32h29"/>
+		<path id="Cap-Bottom" inkscape:connector-curvature="0" fill="none" stroke="#163157" d="M46,13h29"/>
+		<path id="Shape" inkscape:connector-curvature="0" fill="none" stroke="#163157" d="M78.091,4H43.398C40.955,4,39,5.931,39,8.345
+			S41.199,13,43.398,13h2.443v47.482l8.307,49.483c0,3.38,2.687,6.036,6.107,6.036c3.422,0,6.109-2.656,6.109-6.036l8.306-49.724V13
+			h2.993C80.107,13,82,10.517,82,8.103S80.29,4,78.091,4z"/>
+	</g>
+	<text transform="matrix(1.1765 0 0 1.1765 -10.8235 121.9899)" font-family="'TimesNewRomanPSMT'" font-size="13">Adelphocoris suturalis</text>
+</g>
+</svg>
