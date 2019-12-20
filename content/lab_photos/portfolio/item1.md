@@ -1,6 +1,9 @@
 ---
 asset:
-  image: hugegopher.png
+  image: hzau201912.png
+labels:
+- icon: fas fa-paw
+  title: footprint
 item_url: '#'
 subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing
 title: hope

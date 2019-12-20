@@ -7,6 +7,6 @@ weight: 100
 
 ---
 
-Nature Communications, Plant Biotechnology Journal
+Nature Communications, Trends in Plant Science, Plant Biotechnology Journal
 
 ---

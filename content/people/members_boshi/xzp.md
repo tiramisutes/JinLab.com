@@ -10,7 +10,7 @@ icons:
   text: Facebook
   url: 'https://www.facebook.com/xzpiphone'
 - icon: fa fa-envelope
-  text: Linkedin
+  text: Email
   url: 'mailto:zhongpingxu@aliyun.com'
 - icon: fab fa-weixin
   text: Weixin
@@ -25,17 +25,12 @@ lives_in: '[Wuhan](https://dwz.cn/alWq5Aln)'
 position: Bioinformatics
 scope:
 - http://tiramisutes.github.io/
-- Contributor for [Goper Team A](#)
-- Gopher Community Member
 title: 许忠平 (Zhongping Xu)
 weight: 5
 ---
 
-Really tiny Gopher
+**Current research theme**
 
-Some more text to showcase the capabilities:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Curabitur a lorem urna.
-Quisque in neque malesuada, sollicitudin nunc porttitor, ornare est.
-Praesent ante enim, bibendum sed hendrerit et, iaculis laoreet felis.
-Morbi efficitur dui sit amet orci porttitor, nec tincidunt turpis elementum.
+Genome Assembly (Plants, Insects and Microorganism), RNA-seq Mining, Comparative Genomics, Metagenomics, CRISPR Genome Editing Analysis and Molecular Biology;
+
+<a href="https://orcid.org/0000-0003-2559-9091" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0003-2559-9091</a>

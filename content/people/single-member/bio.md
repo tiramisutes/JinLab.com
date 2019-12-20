@@ -3,9 +3,6 @@ asset:
   image: jin.png
 date: "2017-10-17"
 icons:
-- icon: fab fa-linkedin-in
-  text: Linkedin
-  url: '#'
 - icon: fa fa-envelope
   text: Email
   url: 'mailto:jsx@mail.hzau.edu.cn'
@@ -22,11 +19,4 @@ title: 金双侠 (Shuangxia Jin)
 weight: 0
 ---
 
-Hugely huge
-
-Some more text to showcase the capabilities:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Curabitur a lorem urna.
-Quisque in neque malesuada, sollicitudin nunc porttitor, ornare est.
-Praesent ante enim, bibendum sed hendrerit et, iaculis laoreet felis.
-Morbi efficitur dui sit amet orci porttitor, nec tincidunt turpis elementum.
+Dr. Shuangxia Jin is a full professor of Huazhong Agricultural University, China. He received his Ph.D. in 2006 from HZAU. From 2007 to 2012, he has been working as a postdoc in Prof Henry Daniell's lab of University of Pennsylvania of USA. Dr. Jin have been working in plant biotechnology for 20 years, his current research involves in Insects (whitefly/aphid/Lygus) and cotton host molecular interaction; genome editing (CRISPR/Cas 9, Cpf1 and Base-editing) . Dr. Jin published more than 50 peer reviewed papers in top journals such as ***Nature Communications, Trends in Plant Sci, Plant Physiology, New Phytologist, Plant Biotech. J***. He is the Associate Editor of Plant Biotech. J. and Senior Editor of Journal of Cotton Research,the co-chair of International Cotton Genome Initiative (ICGI).
